@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unisbank Stopwatch</string>
+    <string name="mulai">Mulai</string>
+    <string name="jeda">Jeda</string>
+    <string name="berhenti">Berhenti</string>
+    <string name="reset">Atur Ulang</string>
+</resources>
